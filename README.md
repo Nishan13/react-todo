@@ -1,5 +1,5 @@
-# react-starter
-Starter kit for React using Webpack with Hot Module Replacement.
+# React Todo
+A todo app build in Reactjs
 
 Install all the dependencies using [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
